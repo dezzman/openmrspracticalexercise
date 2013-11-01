@@ -14,4 +14,7 @@
 	
 	<!-- Add further links here -->
 </ul>
+<h2>
+	Practical Exercise Module
+</h2>
 
